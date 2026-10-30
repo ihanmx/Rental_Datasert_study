@@ -8,3 +8,9 @@ data/processed/*
 # Jupyter / Python temp files
 .ipynb_checkpoints/
 __pycache__/
+
+references/*
+.gitkeep
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+

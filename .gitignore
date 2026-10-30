@@ -10,7 +10,7 @@ data/processed/*
 __pycache__/
 
 references/*
-.gitkeep
+
 !data/raw/.gitkeep
 !data/processed/.gitkeep
 

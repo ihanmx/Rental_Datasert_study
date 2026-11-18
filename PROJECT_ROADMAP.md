@@ -120,6 +120,6 @@ Reference guides: `doc/tuning_guide.md`
 
 ## Phase 10: Documentation and delivery
 - [ ] 10.1 Clean up the notebooks with markdown explanations
-- [ ] 10.2 Final report: problem, data, method, results, insights, limitations
-- [ ] 10.3 A README for GitHub
+- [x] 10.2 Final report: problem, data, method, results, insights, limitations (`reports/final_report.md` + `reports/final_report.docx`)
+- [x] 10.3 A README for GitHub
 - [ ] 10.4 Final commit and push
